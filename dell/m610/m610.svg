@@ -42,10 +42,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="905.3026"
-     inkscape:cy="575.49769"
+     inkscape:cx="139.58831"
+     inkscape:cy="564.06912"
      inkscape:document-units="mm"
-     inkscape:current-layer="g952"
+     inkscape:current-layer="layer1"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -90,13 +90,13 @@
     <image
        sodipodi:absref="/home/thoth/git/obb/inventory/dell/m610/m610-whitebg.jpg"
        xlink:href="m610-whitebg.jpg"
-       width="352.77777"
-       height="352.77777"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality"
-       id="image898"
+       y="-112.22221"
        x="494.1409"
-       y="-112.22221" />
+       id="image898"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="352.77777"
+       width="352.77777" />
   </g>
   <g
      inkscape:label="OBB"
@@ -106,16 +106,16 @@
      transform="translate(-494.1409,112.22221)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.83284378px;line-height:3.10323477px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12412938px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="507.75128"
-       y="-86.473808"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.31892395px;line-height:3.68735981px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14749438px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="508.04272"
+       y="-83.377373"
        id="text817"
-       transform="matrix(1.0007023,0.1588978,-0.16336156,0.97335866,0,0)"><tspan
+       transform="matrix(1.0007023,0.1588978,-0.16336156,0.97335864,0,0)"><tspan
          sodipodi:role="line"
          id="tspan815"
-         x="507.75128"
-         y="-86.473808"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.12412938px">OpenBusinessBox.com</tspan></text>
+         x="508.04272"
+         y="-83.377373"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.14749438px">OpenBusinessBox</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -125,13 +125,13 @@
     <image
        sodipodi:absref="/home/thoth/git/obb/inventory/dell/m610/m610-back.jpg"
        xlink:href="m610-back.jpg"
-       width="352.77777"
-       height="352.77777"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality"
-       id="image873"
+       y="-0.01800525"
        x="0"
-       y="-0.01800525" />
+       id="image873"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="352.77777"
+       width="352.77777" />
   </g>
   <g
      transform="translate(-494.1409,112.22221)"
@@ -165,13 +165,13 @@
     <image
        sodipodi:absref="/home/thoth/git/obb/inventory/dell/m610/m610-front.jpg"
        xlink:href="m610-front.jpg"
-       width="352.77777"
-       height="352.77777"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality"
-       id="image943"
+       y="-0.01800525"
        x="0"
-       y="-0.01800525" />
+       id="image943"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="352.77777"
+       width="352.77777" />
   </g>
   <g
      inkscape:label="OBB copy copy"
